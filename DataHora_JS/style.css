@@ -1,0 +1,21 @@
+body { 
+    text-align:center;
+    font-family: cursive;
+    background-color: rgb(242, 242, 242);}
+
+h1 {
+    text-decoration: underline;
+    color: rgb(0, 230, 230);}
+
+img {width:100%;}
+
+button { 
+    border:2px solid transparent;
+    outline:2px solid transparent;
+    border-radius:5px;
+    background: rgb(47, 150, 47);
+    color: #fff;
+    padding: 15px;}
+
+button:hover {
+    background-color: rgb(37, 116, 37);}
